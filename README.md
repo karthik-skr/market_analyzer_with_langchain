@@ -13,4 +13,4 @@ LANGFUSE_SECRET_KEY=sk-lf-xxxxxxxxxxxxxxx
 LANGFUSE_HOST=https://us.cloud.langfuse.com
 ```
 ## Execute jupyter notebook
-Go through [Assessment.ipynb](https://github.com/karthik-skr/langchain_market_analyzer/blob/main/Assessment.ipynb)
+Go through [code.ipynb](https://github.com/karthik-skr/langchain_market_analyzer/blob/main/code.ipynb)
